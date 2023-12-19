@@ -40,10 +40,10 @@ DB Structure
   <img width="781" alt="1  add new employee access(username and password)" src="https://github.com/dajo09/Petopia/assets/33592524/014d91e6-e8e4-4268-a981-077298b7ca7e">
 
 - Update Employee
-  <img width="565" alt="3  update employee table" src="https://github.com/dajo09/Petopia/assets/33592524/3959fdc3-2cc4-4378-a5e3-414ac4602738">
+ <img width="650" alt="update employee" src="https://github.com/dajo09/Petopia/assets/33592524/0de1fa1d-23fc-4cc2-adb0-05bc86ea20f2">
 
 - Add New Employee
-  <img width="565" alt="3  update employee table" src="https://github.com/dajo09/Petopia/assets/33592524/9ade61f0-9710-4530-9c4a-e3090ef48cad">
+ <img width="740" alt="add new employee" src="https://github.com/dajo09/Petopia/assets/33592524/15d2e61c-6919-4d11-90d2-f1444a585acf">
 
 - Employee Fields
   <img width="630" alt="Employee Fields" src="https://github.com/dajo09/Petopia/assets/33592524/2a2b997e-e034-41d3-908a-7f1c635970cf">
@@ -58,7 +58,8 @@ DB Structure
   <img width="751" alt="void receipts" src="https://github.com/dajo09/Petopia/assets/33592524/3127be98-6353-4098-9182-eaf59c73d5da">
 
 - OFFICIAL RECEIPT PRINTED
-  <img width="780" alt="OFFICIAL RECEIPT PRINTED" src="https://github.com/dajo09/Petopia/assets/33592524/6c53d8f9-f010-4eee-9a26-25eb8ec09f36">
+ <img width="799" alt="official receipt printed" src="https://github.com/dajo09/Petopia/assets/33592524/33566a73-3e39-46b9-b489-e534f3fecc11">
+
   
 
 
