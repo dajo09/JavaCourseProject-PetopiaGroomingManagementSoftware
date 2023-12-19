@@ -33,7 +33,8 @@ DB Structure
 ### Petopia Screenshots/Mock-ups (Showing only classes and fields I programmed)
 ---
 - Log-In
-  <img width="547" alt="1   LogIn " src="https://github.com/dajo09/Petopia/assets/33592524/eb6c15af-33e8-47e0-b69d-6e7017495385">
+  <img width="613" alt="LogIn" src="https://github.com/dajo09/Petopia/assets/33592524/2811e45b-9294-4275-ae70-4a957ed28d0e">
+
 
 - Add New Employee Access (for Log-In)
   <img width="781" alt="1  add new employee access(username and password)" src="https://github.com/dajo09/Petopia/assets/33592524/014d91e6-e8e4-4268-a981-077298b7ca7e">
