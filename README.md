@@ -49,7 +49,7 @@ DB Structure
   <img width="630" alt="Employee Fields" src="https://github.com/dajo09/Petopia/assets/33592524/2a2b997e-e034-41d3-908a-7f1c635970cf">
 
 - Generate Receipts
-  <img width="556" alt="generate receipts" src="https://github.com/dajo09/Petopia/assets/33592524/a05b722e-da58-4dc2-857c-916332f5ceb3">
+  <img width="591" alt="generate receipts" src="https://github.com/dajo09/Petopia/assets/33592524/eec070a7-f785-4e94-82ac-b51ac7afa313">
 
 - Print Receipts
   <img width="561" alt="Petopia Management System Log-In" src="https://github.com/dajo09/Petopia/assets/33592524/094eb8e0-4276-4217-bebe-57e221b4899b">
