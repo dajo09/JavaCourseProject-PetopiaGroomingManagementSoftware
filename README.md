@@ -1,2 +1,3 @@
 # Petopia
-Pet grooming management software
+Pet Grooming Service Management System
+Java Programming Scholarship NCIII by TESDA
