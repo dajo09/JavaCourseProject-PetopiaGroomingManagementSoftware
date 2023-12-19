@@ -46,7 +46,7 @@ DB Structure
   <img width="565" alt="3  update employee table" src="https://github.com/dajo09/Petopia/assets/33592524/9ade61f0-9710-4530-9c4a-e3090ef48cad">
 
 - Employee Fields
-  <img width="548" alt="employee fields" src="https://github.com/dajo09/Petopia/assets/33592524/8f4e4878-9d47-45bb-bf5c-1c3a14cc4cf7">
+  <img width="630" alt="Employee Fields" src="https://github.com/dajo09/Petopia/assets/33592524/2a2b997e-e034-41d3-908a-7f1c635970cf">
 
 - Generate Receipts
   <img width="556" alt="generate receipts" src="https://github.com/dajo09/Petopia/assets/33592524/a05b722e-da58-4dc2-857c-916332f5ceb3">
