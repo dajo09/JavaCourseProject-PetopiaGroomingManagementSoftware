@@ -30,7 +30,7 @@ DB Structure
 
 
 ---
-### Petopia Screenshots/Mock-ups
+### Petopia Screenshots/Mock-ups (Showing only classes and fields I programmed)
 ---
 - Log-In
   <img width="547" alt="1   LogIn " src="https://github.com/dajo09/Petopia/assets/33592524/eb6c15af-33e8-47e0-b69d-6e7017495385">
