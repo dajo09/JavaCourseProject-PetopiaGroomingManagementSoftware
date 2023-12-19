@@ -1,0 +1,7 @@
+.DS_Store
+build
+Build.xml
+Dist
+Manifest.mf
+Nbproject
+test
