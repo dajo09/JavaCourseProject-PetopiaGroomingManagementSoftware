@@ -51,11 +51,8 @@ DB Structure
 - Generate Receipts
   <img width="591" alt="generate receipts" src="https://github.com/dajo09/Petopia/assets/33592524/eec070a7-f785-4e94-82ac-b51ac7afa313">
 
-- Print Receipts
-  <img width="561" alt="Petopia Management System Log-In" src="https://github.com/dajo09/Petopia/assets/33592524/094eb8e0-4276-4217-bebe-57e221b4899b">
-
 - Void Receipt
-  <img width="751" alt="void receipts" src="https://github.com/dajo09/Petopia/assets/33592524/3127be98-6353-4098-9182-eaf59c73d5da">
+ <img width="800" alt="void receipts" src="https://github.com/dajo09/Petopia/assets/33592524/2a53fc0d-4c31-41e7-baba-ee05d95af1ad">
 
 - OFFICIAL RECEIPT PRINTED
  <img width="799" alt="official receipt printed" src="https://github.com/dajo09/Petopia/assets/33592524/33566a73-3e39-46b9-b489-e534f3fecc11">
