@@ -18,6 +18,8 @@ Use-case Diagram: Lucid Chart
 Database Diagram:
 ![diagram](https://github.com/dajo09/Petopia/assets/33592524/ebe92b99-21ee-4003-9902-737777453518)
 
+Documentation via Canva: https://www.canva.com/design/DAFzdbRD_7M/kFNSqF9CKaUnYivkuWq_ww/edit?utm_content=DAFzdbRD_7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
