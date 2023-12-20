@@ -38,7 +38,7 @@ Wendell:
 AppointmentInfo
 PetInfo
 AppointmentQuery
-PetQuery
+PetQuery\
 Appointment
 Pet
 Service
