@@ -2,5 +2,6 @@ build
 dist
 nbproject
 build.xml
-manifest.manifest
+manifest.mf
 *.docx
+*.DS_Store
