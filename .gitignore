@@ -1,7 +1,6 @@
-.DS_Store
 build
-build.xml
 dist
-manifest.mf
 nbproject
-test
+build.xml
+manifest.manifest
+*.docx
