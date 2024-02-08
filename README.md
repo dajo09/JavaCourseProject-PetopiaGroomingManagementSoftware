@@ -26,7 +26,7 @@ DB Structure
 
 [Documentation via Canva](https://www.canva.com/design/DAFzdbRD_7M/kFNSqF9CKaUnYivkuWq_ww/edit?utm_content=DAFzdbRD_7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
-
+**Course Certificate to follow.**
 
 
 ---
